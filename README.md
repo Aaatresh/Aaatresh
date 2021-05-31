@@ -1,4 +1,10 @@
-### Hi there!! Welcome!!
+# Hi there!! Welcome to my github space!!
+
+[Homepage](https://aaatresh.github.io)
+
+Contact me at:
+ - Email ID: [anirudhashokaatresh@gmail.com](mailto:anirudhashokaatresh@gmail.com) or [aaa.171ec106@nitk.edu.in](mailto:aaa.171ec106@nitk.edu.in).
+ - [Linkedin](https://www.linkedin.com/in/anirudhaatresh/) 
 
 <!--
 **Aaatresh/Aaatresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
