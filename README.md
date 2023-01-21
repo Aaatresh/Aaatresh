@@ -3,7 +3,7 @@
 [Homepage](https://aaatresh.github.io)
 
 Contact me at:
- - Email ID: [anirudhashokaatresh@gmail.com](mailto:anirudhashokaatresh@gmail.com) or [aaatresh@umich.edu](mailto:aaatresh@umich.edu).
+ - Email ID: [aaatresh@umich.edu](mailto:aaatresh@umich.edu).
  - [Linkedin](https://www.linkedin.com/in/anirudhaatresh/) 
 
 <!--
